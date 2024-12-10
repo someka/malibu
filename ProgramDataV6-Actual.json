@@ -1,0 +1,200 @@
+[
+	{
+	"date": "20.12.2024",
+	"channel": "ATV",
+	"programName": "BIR KUCUK GUN ISIGI (TKR)",
+	"programStartTime": "01:00:00",
+	"daypart": "PT",
+	"actualRating": "0,02",
+	"spots": "1"
+	},
+	{
+	"date": "20.12.2024",
+	"channel": "ATV",
+	"programName": "ATES KUSLARI (TKR)",
+	"programStartTime": "08:30:00",
+	"daypart": "OPT",
+	"actualRating": "0,14",
+	"spots": "7"
+	},
+	{
+	"date": "20.12.2024",
+	"channel": "ATV",
+	"programName": "VERMEM SENI ELLERE (TKR)",
+	"programStartTime": "13:00:00",
+	"daypart": "OPT",
+	"actualRating": "0,39",
+	"spots": "2"
+	},
+	{
+	"date": "20.12.2024",
+	"channel": "ATV",
+	"programName": "ATV ANA HABER",
+	"programStartTime": "18:30:00",
+	"daypart": "PT",
+	"actualRating": "0,62",
+	"spots": "4"
+	},
+	{
+	"date": "20.12.2024",
+	"channel": "ATV",
+	"programName": "(Y.S)",
+	"programStartTime": "20:30:00",
+	"daypart": "PT",
+	"actualRating": "0,65",
+	"spots": "2"
+	},
+	{
+	"date": "20.12.2024",
+	"channel": "KANAL D",
+	"programName": "YABANCI DAMAT (TKR)",
+	"programStartTime": "07:00:00",
+	"daypart": "OPT",
+	"actualRating": "0,04",
+	"spots": "2"
+	},
+	{
+	"date": "20.12.2024",
+	"channel": "KANAL D",
+	"programName": "MAGAZIN D CUMARTESI",
+	"programStartTime": "09:30:00",
+	"daypart": "OPT",
+	"actualRating": "0,43",
+	"spots": "1"
+	},
+	{
+	"date": "20.12.2024",
+	"channel": "KANAL D",
+	"programName": "(T.S)",
+	"programStartTime": "14:00:00",
+	"daypart": "OPT",
+	"actualRating": "0,56",
+	"spots": "1"
+	},
+	{
+	"date": "20.12.2024",
+	"channel": "KANAL D",
+	"programName": "KANAL D ANA HABER",
+	"programStartTime": "19:30:00",
+	"daypart": "PT",
+	"actualRating": "1,15",
+	"spots": "1"
+	},
+	{
+	"date": "20.12.2024",
+	"channel": "KANAL D",
+	"programName": "SARKILAR BIZI SOYLER (TKR)",
+	"programStartTime": "21:00:00",
+	"daypart": "PT",
+	"actualRating": "0,76",
+	"spots": "2"
+	},
+	{
+	"date": "20.12.2024",
+	"channel": "SHOW TV",
+	"programName": "(T.S)",
+	"programStartTime": "13:30:00",
+	"daypart": "OPT",
+	"actualRating": "0,68",
+	"spots": "1"
+	},
+	{
+	"date": "20.12.2024",
+	"channel": "SHOW TV",
+	"programName": "MAVIYE SURGUN (TKR)",
+	"programStartTime": "15:30:00",
+	"daypart": "OPT",
+	"actualRating": "0,21",
+	"spots": "2"
+	},
+	{
+	"date": "20.12.2024",
+	"channel": "SHOW TV",
+	"programName": "SON DAKIKA",
+	"programStartTime": "19:30:00",
+	"daypart": "PT",
+	"actualRating": "1,32",
+	"spots": "2"
+	},
+	{
+	"date": "20.12.2024",
+	"channel": "TV8",
+	"programName": "DOGDUGUN EV KADERINDIR (TKR)",
+	"programStartTime": "06:00:00",
+	"daypart": "OPT",
+	"actualRating": "0,01",
+	"spots": "3"
+	},
+	{
+	"date": "20.12.2024",
+	"channel": "TV8",
+	"programName": "TURKIYE'NIN DOKTORLARI",
+	"programStartTime": "08:00:00",
+	"daypart": "OPT",
+	"actualRating": "0,06",
+	"spots": "1"
+	},
+	{
+	"date": "20.12.2024",
+	"channel": "TV8",
+	"programName": "KIRMIZI ODA (TKR)",
+	"programStartTime": "09:00:00",
+	"daypart": "OPT",
+	"actualRating": "0,08",
+	"spots": "2"
+	},
+	{
+	"date": "20.12.2024",
+	"channel": "TV8",
+	"programName": "GAZETE MAGAZIN",
+	"programStartTime": "10:30:00",
+	"daypart": "OPT",
+	"actualRating": "0,21",
+	"spots": "1"
+	},
+	{
+	"date": "20.12.2024",
+	"channel": "TV8",
+	"programName": "ALI YESILIRMAK VE DOSTLARI",
+	"programStartTime": "13:30:00",
+	"daypart": "OPT",
+	"actualRating": "0,41",
+	"spots": "1"
+	},
+	{
+	"date": "20.12.2024",
+	"channel": "TV8",
+	"programName": "(T.S)",
+	"programStartTime": "15:00:00",
+	"daypart": "OPT",
+	"actualRating": "0,2",
+	"spots": "1"
+	},
+	{
+	"date": "20.12.2024",
+	"channel": "TV8",
+	"programName": "(Y.S)",
+	"programStartTime": "17:30:00",
+	"daypart": "OPT",
+	"actualRating": "0,3",
+	"spots": "2"
+	},
+	{
+	"date": "20.12.2024",
+	"channel": "TV8",
+	"programName": "MASTERCHEF TURKIYE ALL STAR",
+	"programStartTime": "20:30:00",
+	"daypart": "PT",
+	"actualRating": "2,18",
+	"spots": "1"
+	},
+	{
+	"date": "20.12.2024",
+	"channel": "TV8",
+	"programName": "EK PROGRAM",
+	"programStartTime": "21:30:00",
+	"daypart": "PT",
+	"actualRating": "1,63",
+	"spots": "1"
+	}
+]
