@@ -1,0 +1,101 @@
+[
+	{
+	"date": "27.12.2024",
+	"channel": "ATV",
+	"programName": "KAHVALTI HABERLERI",
+	"programStartTime": "08:30:00",
+	"dayPart": "OPT",
+	"actualRating": "0,1664",
+	"spots": "25"
+	},
+	{
+	"date": "27.12.2024",
+	"channel": "ATV",
+	"programName": "KARDESLERIM (TKR)",
+	"programStartTime": "10:30:00",
+	"dayPart": "OPT",
+	"actualRating": "0,2793",
+	"spots": "25"
+	},
+	{
+	"date": "27.12.2024",
+	"channel": "ATV",
+	"programName": "(T.S)",
+	"programStartTime": "14:30:00",
+	"dayPart": "OPT",
+	"actualRating": "0,20604",
+	"spots": "25"
+	},
+	{
+	"date": "27.12.2024",
+	"channel": "ATV",
+	"programName": "ATV ANA HABER",
+	"programStartTime": "18:30:00",
+	"dayPart": "PT",
+	"actualRating": "0,45144",
+	"spots": "1"
+	},
+	{
+	"date": "27.12.2024",
+	"channel": "ATV",
+	"programName": "EK PROGRAM",
+	"programStartTime": "22:30:00",
+	"dayPart": "PT",
+	"actualRating": "0,940032",
+	"spots": "1"
+	},
+	{
+	"date": "27.12.2024",
+	"channel": "TV 8",
+	"programName": "8'DE SAGLIK",
+	"programStartTime": "07:00:00",
+	"dayPart": "OPT",
+	"actualRating": "0,0306",
+	"spots": "1"
+	},
+	{
+	"date": "27.12.2024",
+	"channel": "TV 8",
+	"programName": "8'DE SAGLIK",
+	"programStartTime": "08:00:00",
+	"dayPart": "OPT",
+	"actualRating": "0,0665",
+	"spots": "6"
+	},
+	{
+	"date": "27.12.2024",
+	"channel": "TV 8",
+	"programName": "DOGDUGUN EV KADERINDIR (TKR)",
+	"programStartTime": "09:00:00",
+	"dayPart": "OPT",
+	"actualRating": "0,09894",
+	"spots": "15"
+	},
+	{
+	"date": "27.12.2024",
+	"channel": "TV 8",
+	"programName": "ISTE GELIN ISTE KAYNANA",
+	"programStartTime": "17:00:00",
+	"dayPart": "OPT",
+	"actualRating": "0,259974",
+	"spots": "1"
+	},
+	{
+	"date": "27.12.2024",
+	"channel": "TV 8",
+	"programName": "MASTERCHEF TURKIYE ALL STAR OZET",
+	"programStartTime": "19:00:00",
+	"dayPart": "PT",
+	"actualRating": "0,947205",
+	"spots": "1"
+	},
+	{
+	"date": "27.12.2024",
+	"channel": "TV 8",
+	"programName": "MASTERCHEF TURKIYE ALL STAR",
+	"programStartTime": "21:30:00",
+	"dayPart": "PT",
+	"actualRating": "2,247856",
+	"spots": "4"
+	}
+]
