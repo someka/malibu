@@ -1,0 +1,362 @@
+[
+	{
+	"date": "27.12.2024",
+	"channel": "ATV",
+	"programName": "KAHVALTI HABERLERI",
+	"programStartTime": "08:30:00",
+	"dayPart": "OPT",
+	"actualRating": "0,224",
+	"spots": "6"
+	},
+	{
+	"date": "27.12.2024",
+	"channel": "ATV",
+	"programName": "KARDESLERIM (TKR)",
+	"programStartTime": "10:30:00",
+	"dayPart": "OPT",
+	"actualRating": "0,3",
+	"spots": "5"
+	},
+	{
+	"date": "27.12.2024",
+	"channel": "ATV",
+	"programName": "(T.S)",
+	"programStartTime": "14:30:00",
+	"dayPart": "OPT",
+	"actualRating": "0,2",
+	"spots": "5"
+	},
+	{
+	"date": "27.12.2024",
+	"channel": "ATV",
+	"programName": "ATV ANA HABER",
+	"programStartTime": "18:30:00",
+	"dayPart": "PT",
+	"actualRating": "0,288",
+	"spots": "26"
+	},
+	{
+	"date": "27.12.2024",
+	"channel": "ATV",
+	"programName": "EK PROGRAM",
+	"programStartTime": "22:30:00",
+	"dayPart": "PT",
+	"actualRating": "0,672",
+	"spots": "2"
+	},
+	{
+	"date": "28.12.2024",
+	"channel": "ATV",
+	"programName": "BIR KUCUK GUN ISIGI (TKR)",
+	"programStartTime": "01:00:00",
+	"dayPart": "PT",
+	"actualRating": "0,024",
+	"spots": "6"
+	},
+	{
+	"date": "28.12.2024",
+	"channel": "ATV",
+	"programName": "ATES KUSLARI (TKR)",
+	"programStartTime": "08:30:00",
+	"dayPart": "OPT",
+	"actualRating": "0,156",
+	"spots": "13"
+	},
+	{
+	"date": "28.12.2024",
+	"channel": "ATV",
+	"programName": "UVEY ANNE (TKR)",
+	"programStartTime": "12:30:00",
+	"dayPart": "OPT",
+	"actualRating": "0,228",
+	"spots": "2"
+	},
+	{
+	"date": "28.12.2024",
+	"channel": "ATV",
+	"programName": "VERMEM SENI ELLERE (TKR)",
+	"programStartTime": "13:00:00",
+	"dayPart": "OPT",
+	"actualRating": "0,468",
+	"spots": "3"
+	},
+	{
+	"date": "28.12.2024",
+	"channel": "ATV",
+	"programName": "(T.S)",
+	"programStartTime": "17:00:00",
+	"dayPart": "OPT",
+	"actualRating": "0,847",
+	"spots": "1"
+	},
+	{
+	"date": "28.12.2024",
+	"channel": "ATV",
+	"programName": "ATV ANA HABER",
+	"programStartTime": "18:30:00",
+	"dayPart": "PT",
+	"actualRating": "0,342",
+	"spots": "15"
+	},
+	{
+	"date": "28.12.2024",
+	"channel": "ATV",
+	"programName": "(Y.S)",
+	"programStartTime": "20:30:00",
+	"dayPart": "PT",
+	"actualRating": "0,68",
+	"spots": "8"
+	},
+	{
+	"date": "29.12.2024",
+	"channel": "ATV",
+	"programName": "EK PROGRAM",
+	"programStartTime": "00:30:00",
+	"dayPart": "PT",
+	"actualRating": "0,45",
+	"spots": "12"
+	},
+	{
+	"date": "29.12.2024",
+	"channel": "ATV",
+	"programName": "ATES KUSLARI (TKR)",
+	"programStartTime": "07:00:00",
+	"dayPart": "OPT",
+	"actualRating": "0,048",
+	"spots": "21"
+	},
+	{
+	"date": "29.12.2024",
+	"channel": "ATV",
+	"programName": "PROF. DR. NIHAT HATIPOGLU ILE KUR'AN VE SUNNET",
+	"programStartTime": "10:00:00",
+	"dayPart": "OPT",
+	"actualRating": "0,126",
+	"spots": "4"
+	},
+	{
+	"date": "29.12.2024",
+	"channel": "ATV",
+	"programName": "DIZI TV",
+	"programStartTime": "11:00:00",
+	"dayPart": "OPT",
+	"actualRating": "0,14",
+	"spots": "6"
+	},
+	{
+	"date": "29.12.2024",
+	"channel": "ATV",
+	"programName": "VERMEM SENI ELLERE (TKR)",
+	"programStartTime": "14:30:00",
+	"dayPart": "OPT",
+	"actualRating": "0,246",
+	"spots": "5"
+	},
+	{
+	"date": "29.12.2024",
+	"channel": "ATV",
+	"programName": "ATV ANA HABER",
+	"programStartTime": "18:30:00",
+	"dayPart": "PT",
+	"actualRating": "0,481",
+	"spots": "6"
+	},
+	{
+	"date": "29.12.2024",
+	"channel": "ATV",
+	"programName": "ATV ANA HABER",
+	"programStartTime": "19:30:00",
+	"dayPart": "PT",
+	"actualRating": "1,218",
+	"spots": "4"
+	},
+	{
+	"date": "29.12.2024",
+	"channel": "ATV",
+	"programName": "VERMEM SENI ELLERE (OZET)",
+	"programStartTime": "20:00:00",
+	"dayPart": "PT",
+	"actualRating": "1,248",
+	"spots": "8"
+	},
+	{
+	"date": "27.12.2024",
+	"channel": "TV8",
+	"programName": "8'DE SAGLIK",
+	"programStartTime": "07:00:00",
+	"dayPart": "OPT",
+	"actualRating": "0,021",
+	"spots": "1"
+	},
+	{
+	"date": "27.12.2024",
+	"channel": "TV8",
+	"programName": "8'DE SAGLIK",
+	"programStartTime": "08:00:00",
+	"dayPart": "OPT",
+	"actualRating": "0,056",
+	"spots": "7"
+	},
+	{
+	"date": "27.12.2024",
+	"channel": "TV8",
+	"programName": "DOGDUGUN EV KADERINDIR (TKR)",
+	"programStartTime": "09:00:00",
+	"dayPart": "OPT",
+	"actualRating": "0,08",
+	"spots": "15"
+	},
+	{
+	"date": "27.12.2024",
+	"channel": "TV8",
+	"programName": "ISTE GELIN ISTE KAYNANA",
+	"programStartTime": "17:00:00",
+	"dayPart": "OPT",
+	"actualRating": "0,182",
+	"spots": "1"
+	},
+	{
+	"date": "27.12.2024",
+	"channel": "TV8",
+	"programName": "MASTERCHEF TURKIYE ALL STAR OZET",
+	"programStartTime": "19:00:00",
+	"dayPart": "PT",
+	"actualRating": "0,837",
+	"spots": "1"
+	},
+	{
+	"date": "27.12.2024",
+	"channel": "TV8",
+	"programName": "MASTERCHEF TURKIYE ALL STAR",
+	"programStartTime": "21:30:00",
+	"dayPart": "PT",
+	"actualRating": "1,712",
+	"spots": "4"
+	},
+	{
+	"date": "28.12.2024",
+	"channel": "TV8",
+	"programName": "DOGDUGUN EV KADERINDIR (TKR)",
+	"programStartTime": "06:00:00",
+	"dayPart": "OPT",
+	"actualRating": "0,008",
+	"spots": "13"
+	},
+	{
+	"date": "28.12.2024",
+	"channel": "TV8",
+	"programName": "KIRMIZI ODA (TKR)",
+	"programStartTime": "09:00:00",
+	"dayPart": "OPT",
+	"actualRating": "0,048",
+	"spots": "4"
+	},
+	{
+	"date": "28.12.2024",
+	"channel": "TV8",
+	"programName": "GAZETE MAGAZIN",
+	"programStartTime": "10:30:00",
+	"dayPart": "OPT",
+	"actualRating": "0,322",
+	"spots": "4"
+	},
+	{
+	"date": "28.12.2024",
+	"channel": "TV8",
+	"programName": "MASTERCHEF TURKIYE ALL STAR (TKR)",
+	"programStartTime": "13:00:00",
+	"dayPart": "OPT",
+	"actualRating": "0,2",
+	"spots": "1"
+	},
+	{
+	"date": "28.12.2024",
+	"channel": "TV8",
+	"programName": "ALI YESILIRMAK VE DOSTLARI",
+	"programStartTime": "13:30:00",
+	"dayPart": "OPT",
+	"actualRating": "0,408",
+	"spots": "1"
+	},
+	{
+	"date": "28.12.2024",
+	"channel": "TV8",
+	"programName": "(T.S)",
+	"programStartTime": "15:00:00",
+	"dayPart": "OPT",
+	"actualRating": "0,294",
+	"spots": "3"
+	},
+	{
+	"date": "28.12.2024",
+	"channel": "TV8",
+	"programName": "MASTERCHEF TURKIYE ALL STAR",
+	"programStartTime": "20:30:00",
+	"dayPart": "PT",
+	"actualRating": "2,123",
+	"spots": "5"
+	},
+	{
+	"date": "29.12.2024",
+	"channel": "TV8",
+	"programName": "DOGDUGUN EV KADERINDIR (TKR)",
+	"programStartTime": "01:00:00",
+	"dayPart": "PT",
+	"actualRating": "0,036",
+	"spots": "6"
+	},
+	{
+	"date": "29.12.2024",
+	"channel": "TV8",
+	"programName": "TURKIYE'NIN DOKTORLARI",
+	"programStartTime": "08:00:00",
+	"dayPart": "OPT",
+	"actualRating": "0,024",
+	"spots": "13"
+	},
+	{
+	"date": "29.12.2024",
+	"channel": "TV8",
+	"programName": "(Y.S)",
+	"programStartTime": "10:30:00",
+	"dayPart": "OPT",
+	"actualRating": "0,4",
+	"spots": "5"
+	},
+	{
+	"date": "29.12.2024",
+	"channel": "TV8",
+	"programName": "MASTERCHEF TURKIYE ALL STAR (TKR)",
+	"programStartTime": "14:00:00",
+	"dayPart": "OPT",
+	"actualRating": "0,528",
+	"spots": "1"
+	},
+	{
+	"date": "29.12.2024",
+	"channel": "TV8",
+	"programName": "MASTERCHEF TURKIYE ALL STAR OZET",
+	"programStartTime": "18:30:00",
+	"dayPart": "PT",
+	"actualRating": "0,348",
+	"spots": "1"
+	},
+	{
+	"date": "29.12.2024",
+	"channel": "TV8",
+	"programName": "ATAKAS HATAYSPOR-HULL CITY HAZIRLIK KARSILASMASI",
+	"programStartTime": "19:00:00",
+	"dayPart": "PT",
+	"actualRating": "0,4",
+	"spots": "9"
+	},
+	{
+	"date": "29.12.2024",
+	"channel": "TV8",
+	"programName": "EK PROGRAM",
+	"programStartTime": "21:30:00",
+	"dayPart": "PT",
+	"actualRating": "2,14",
+	"spots": "4"
+	}
+]
