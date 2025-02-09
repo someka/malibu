@@ -1,0 +1,394 @@
+[
+	{
+	"day": "10.02.2025",
+	"channel": "ATV",
+	"program": "KAHVALTI HABERLERI",
+	"daypart": "OPT",
+	"actualRating": 0.16,
+	"spots": 3
+	},
+	{
+	"day": "10.02.2025",
+	"channel": "ATV",
+	"program": "KARDESLERIM (TKR)",
+	"daypart": "OPT",
+	"actualRating": 0.3,
+	"spots": 1
+	},
+	{
+	"day": "10.02.2025",
+	"channel": "ATV",
+	"program": "(T.S)",
+	"daypart": "OPT",
+	"actualRating": 0.2,
+	"spots": 2
+	},
+	{
+	"day": "10.02.2025",
+	"channel": "ATV",
+	"program": "UVEY ANNE (TKR)",
+	"daypart": "OPT",
+	"actualRating": 0.33,
+	"spots": 1
+	},
+	{
+	"day": "10.02.2025",
+	"channel": "ATV",
+	"program": "ATV ANA HABER",
+	"daypart": "PT",
+	"actualRating": 0.48,
+	"spots": 11
+	},
+	{
+	"day": "10.02.2025",
+	"channel": "ATV",
+	"program": "EK PROGRAM",
+	"daypart": "PT",
+	"actualRating": 0.96,
+	"spots": 1
+	},
+	{
+	"day": "11.02.2025",
+	"channel": "ATV",
+	"program": "BIR KUCUK GUN ISIGI (TKR)",
+	"daypart": "PT",
+	"actualRating": 0.03,
+	"spots": 3
+	},
+	{
+	"day": "11.02.2025",
+	"channel": "ATV",
+	"program": "ATES KUSLARI (TKR)",
+	"daypart": "OPT",
+	"actualRating": 0.12,
+	"spots": 7
+	},
+	{
+	"day": "11.02.2025",
+	"channel": "ATV",
+	"program": "VERMEM SENI ELLERE (TKR)",
+	"daypart": "OPT",
+	"actualRating": 0.39,
+	"spots": 1
+	},
+	{
+	"day": "11.02.2025",
+	"channel": "ATV",
+	"program": "(T.S)",
+	"daypart": "OPT",
+	"actualRating": 0.77,
+	"spots": 1
+	},
+	{
+	"day": "11.02.2025",
+	"channel": "ATV",
+	"program": "ATV ANA HABER",
+	"daypart": "PT",
+	"actualRating": 0.57,
+	"spots": 6
+	},
+	{
+	"day": "11.02.2025",
+	"channel": "ATV",
+	"program": "(Y.S)",
+	"daypart": "PT",
+	"actualRating": 0.68,
+	"spots": 3
+	},
+	{
+	"day": "12.02.2025",
+	"channel": "ATV",
+	"program": "EK PROGRAM",
+	"daypart": "PT",
+	"actualRating": 0.5,
+	"spots": 5
+	},
+	{
+	"day": "12.02.2025",
+	"channel": "ATV",
+	"program": "ATES KUSLARI (TKR)",
+	"daypart": "OPT",
+	"actualRating": 0.06,
+	"spots": 2
+	},
+	{
+	"day": "12.02.2025",
+	"channel": "ATV",
+	"program": "DIZI TV",
+	"daypart": "OPT",
+	"actualRating": 0.14,
+	"spots": 8
+	},
+	{
+	"day": "12.02.2025",
+	"channel": "ATV",
+	"program": "VERMEM SENI ELLERE (TKR)",
+	"daypart": "OPT",
+	"actualRating": 0.41,
+	"spots": 1
+	},
+	{
+	"day": "12.02.2025",
+	"channel": "ATV",
+	"program": "ATV ANA HABER",
+	"daypart": "PT",
+	"actualRating": 0.37,
+	"spots": 2
+	},
+	{
+	"day": "12.02.2025",
+	"channel": "ATV",
+	"program": "ATV ANA HABER",
+	"daypart": "PT",
+	"actualRating": 0.87,
+	"spots": 1
+	},
+	{
+	"day": "12.02.2025",
+	"channel": "ATV",
+	"program": "VERMEM SENI ELLERE (OZET)",
+	"daypart": "PT",
+	"actualRating": 0.96,
+	"spots": 2
+	},
+	{
+	"day": "10.02.2025",
+	"channel": "KANAL D",
+	"program": "YABANCI DAMAT (TKR)",
+	"daypart": "OPT",
+	"actualRating": 0.09,
+	"spots": 1
+	},
+	{
+	"day": "10.02.2025",
+	"channel": "KANAL D",
+	"program": "ASK-I MEMNU (TKR)",
+	"daypart": "OPT",
+	"actualRating": 0.64,
+	"spots": 1
+	},
+	{
+	"day": "10.02.2025",
+	"channel": "KANAL D",
+	"program": "KANAL D ANA HABER",
+	"daypart": "PT",
+	"actualRating": 0.74,
+	"spots": 2
+	},
+	{
+	"day": "10.02.2025",
+	"channel": "KANAL D",
+	"program": "DONENCE (TKR)",
+	"daypart": "PT",
+	"actualRating": 0.68,
+	"spots": 2
+	},
+	{
+	"day": "11.02.2025",
+	"channel": "KANAL D",
+	"program": "KONUSTUKCA",
+	"daypart": "OPT",
+	"actualRating": 0.15,
+	"spots": 2
+	},
+	{
+	"day": "11.02.2025",
+	"channel": "KANAL D",
+	"program": "SICAK GELISME",
+	"daypart": "OPT",
+	"actualRating": 0.69,
+	"spots": 1
+	},
+	{
+	"day": "11.02.2025",
+	"channel": "KANAL D",
+	"program": "KANAL D ANA HABER",
+	"daypart": "PT",
+	"actualRating": 0.89,
+	"spots": 2
+	},
+	{
+	"day": "11.02.2025",
+	"channel": "KANAL D",
+	"program": "SARKILAR BIZI SOYLER (TKR)",
+	"daypart": "PT",
+	"actualRating": 0.83,
+	"spots": 3
+	},
+	{
+	"day": "12.02.2025",
+	"channel": "KANAL D",
+	"program": "EK PROGRAM",
+	"daypart": "PT",
+	"actualRating": 0.5,
+	"spots": 1
+	},
+	{
+	"day": "12.02.2025",
+	"channel": "KANAL D",
+	"program": "MAGAZIN D PAZAR",
+	"daypart": "OPT",
+	"actualRating": 0.34,
+	"spots": 1
+	},
+	{
+	"day": "12.02.2025",
+	"channel": "KANAL D",
+	"program": "SICAK GELISME",
+	"daypart": "OPT",
+	"actualRating": 0.42,
+	"spots": 1
+	},
+	{
+	"day": "12.02.2025",
+	"channel": "KANAL D",
+	"program": "KANAL D ANA HABER",
+	"daypart": "PT",
+	"actualRating": 0.74,
+	"spots": 1
+	},
+	{
+	"day": "12.02.2025",
+	"channel": "KANAL D",
+	"program": "(Y.S)",
+	"daypart": "PT",
+	"actualRating": 0.89,
+	"spots": 2
+	},
+	{
+	"day": "10.02.2025",
+	"channel": "TV8",
+	"program": "8'DE SAGLIK",
+	"daypart": "OPT",
+	"actualRating": 0.07,
+	"spots": 1
+	},
+	{
+	"day": "10.02.2025",
+	"channel": "TV8",
+	"program": "MASTERCHEF TURKIYE ALL STAR (TKR)",
+	"daypart": "OPT",
+	"actualRating": 0.4,
+	"spots": 1
+	},
+	{
+	"day": "10.02.2025",
+	"channel": "TV8",
+	"program": "ISTE GELIN ISTE KAYNANA",
+	"daypart": "OPT",
+	"actualRating": 0.26,
+	"spots": 1
+	},
+	{
+	"day": "10.02.2025",
+	"channel": "TV8",
+	"program": "MASTERCHEF TURKIYE ALL STAR OZET",
+	"daypart": "PT",
+	"actualRating": 0.93,
+	"spots": 1
+	},
+	{
+	"day": "10.02.2025",
+	"channel": "TV8",
+	"program": "MASTERCHEF TURKIYE ALL STAR",
+	"daypart": "PT",
+	"actualRating": 2.14,
+	"spots": 1
+	},
+	{
+	"day": "11.02.2025",
+	"channel": "TV8",
+	"program": "ISTE GELIN ISTE KAYNANA (TKR)",
+	"daypart": "PT",
+	"actualRating": 0.12,
+	"spots": 1
+	},
+	{
+	"day": "11.02.2025",
+	"channel": "TV8",
+	"program": "DOGDUGUN EV KADERINDIR (TKR)",
+	"daypart": "OPT",
+	"actualRating": 0.01,
+	"spots": 2
+	},
+	{
+	"day": "11.02.2025",
+	"channel": "TV8",
+	"program": "TURKIYE'NIN DOKTORLARI",
+	"daypart": "OPT",
+	"actualRating": 0.06,
+	"spots": 2
+	},
+	{
+	"day": "11.02.2025",
+	"channel": "TV8",
+	"program": "KIRMIZI ODA (TKR)",
+	"daypart": "OPT",
+	"actualRating": 0.08,
+	"spots": 2
+	},
+	{
+	"day": "11.02.2025",
+	"channel": "TV8",
+	"program": "ALI YESILIRMAK VE DOSTLARI",
+	"daypart": "OPT",
+	"actualRating": 0.34,
+	"spots": 1
+	},
+	{
+	"day": "11.02.2025",
+	"channel": "TV8",
+	"program": "(T.S)",
+	"daypart": "OPT",
+	"actualRating": 0.21,
+	"spots": 2
+	},
+	{
+	"day": "11.02.2025",
+	"channel": "TV8",
+	"program": "MASTERCHEF TURKIYE ALL STAR",
+	"daypart": "PT",
+	"actualRating": 1.93,
+	"spots": 2
+	},
+	{
+	"day": "12.02.2025",
+	"channel": "TV8",
+	"program": "DOGDUGUN EV KADERINDIR (TKR)",
+	"daypart": "PT",
+	"actualRating": 0.03,
+	"spots": 2
+	},
+	{
+	"day": "12.02.2025",
+	"channel": "TV8",
+	"program": "TURKIYE'NIN DOKTORLARI",
+	"daypart": "OPT",
+	"actualRating": 0.04,
+	"spots": 4
+	},
+	{
+	"day": "12.02.2025",
+	"channel": "TV8",
+	"program": "MASTERCHEF TURKIYE ALL STAR (TKR)",
+	"daypart": "OPT",
+	"actualRating": 0.48,
+	"spots": 1
+	},
+	{
+	"day": "12.02.2025",
+	"channel": "TV8",
+	"program": "ATAKAS HATAYSPOR-HULL CITY HAZIRLIK KARSILASMASI",
+	"daypart": "PT",
+	"actualRating": 0.4,
+	"spots": 2
+	},
+	{
+	"day": "12.02.2025",
+	"channel": "TV8",
+	"program": "EK PROGRAM",
+	"daypart": "PT",
+	"actualRating": 2.14,
+	"spots": 1
+	}
+]
